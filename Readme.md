@@ -1,3 +1,19 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ModuleDescription.cs](./CS/WindowsApplication3/Common/ModuleDescription.cs) (VB: [ModuleDescription.vb](./VB/WindowsApplication3/Common/ModuleDescription.vb))
+* [BaseViewModel.cs](./CS/WindowsApplication3/Common/ViewModels/BaseViewModel.cs) (VB: [BaseViewModel.vb](./VB/WindowsApplication3/Common/ViewModels/BaseViewModel.vb))
+* [ViewModelLogicalLayoutHelper.cs](./CS/WindowsApplication3/Common/ViewModels/ViewModelLogicalLayoutHelper.cs) (VB: [ViewModelLogicalLayoutHelper.vb](./VB/WindowsApplication3/Common/ViewModels/ViewModelLogicalLayoutHelper.vb))
+* [MainView.cs](./CS/WindowsApplication3/MainView.cs) (VB: [MainView.vb](./VB/WindowsApplication3/MainView.vb))
+* [Customer.cs](./CS/WindowsApplication3/Models/Customer.cs) (VB: [Customer.vb](./VB/WindowsApplication3/Models/Customer.vb))
+* [Order.cs](./CS/WindowsApplication3/Models/Order.cs) (VB: [Order.vb](./VB/WindowsApplication3/Models/Order.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+* [CustomerViewModel.cs](./CS/WindowsApplication3/ViewModels/CustomerViewModel.cs) (VB: [CustomerViewModel.vb](./VB/WindowsApplication3/ViewModels/CustomerViewModel.vb))
+* [DocumentsViewModel.cs](./CS/WindowsApplication3/ViewModels/DocumentsViewModel.cs) (VB: [DocumentsViewModel.vb](./VB/WindowsApplication3/ViewModels/DocumentsViewModel.vb))
+* [OrderViewModel.cs](./CS/WindowsApplication3/ViewModels/OrderViewModel.cs) (VB: [OrderViewModel.vb](./VB/WindowsApplication3/ViewModels/OrderViewModel.vb))
+* [CustomerView.cs](./CS/WindowsApplication3/Views/CustomerView.cs) (VB: [CustomerView.vb](./VB/WindowsApplication3/Views/CustomerView.vb))
+* [OrderView.cs](./CS/WindowsApplication3/Views/OrderView.cs) (VB: [OrderView.vb](./VB/WindowsApplication3/Views/OrderView.vb))
+<!-- default file list end -->
 # How to save opened documents, their layout and layout of the documents' views 
 
 
